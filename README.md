@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 My name is Brian
 
-HI my name is Brian
+
 
 – Im am i fronted and backend developer | vibe coder
 
