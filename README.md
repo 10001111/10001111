@@ -2,19 +2,19 @@
 
 
 
-– Im am i fronted and backend developer | vibe coder
+– Im am framework |ai assisted & automated| devloper
 
 
 About me
 
-I'm very interested and passionate about working as a web developer to help nurture my creative ideas and coming up with solutions to tackle a problem that I face throughout my journey as devloper.
+I'm very interested and passionate about working as a framework developer to help nurture my creative ideas and coming up with solutions to tackle a problem that I face throughout my journey as devloper.
 
-I currently live in [Zapopan, Jalisco, Mexico]  . I want to clarify that I focus on creativity and simplicity as a vibe coder. I want to stay in the flow while developing.
+I currently live in [Zapopan, Jalisco, Mexico]  . I want to clarify that I focus on creativity and simplicity as being ai asisted. I want to stay in the flow while developing.
 
 ## 🧰 Skills & Tools
 - HTML • CSS • Python  
 - Git & GitHub  
-- Vibe Coding Environment
+-framework |ai assisted & automated| developer
 
 ## 🚀 Featured Projects
 - [Another Projects](my GitHub repos)
@@ -22,7 +22,7 @@ I currently live in [Zapopan, Jalisco, Mexico]  . I want to clarify that I focus
 ## 🌱 Currently Learning
 - Improving my front-end design skills  
 - Exploring more advanced Python libraries  
-- Building automation tools using Vibe coding
+- Building automation tools being ai assisted
 
 ## 📫 Connect with Me
 - GitHub: [10001111 (Brian Camacho Carrillo))
