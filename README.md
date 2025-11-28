@@ -2,19 +2,19 @@
 
 
 
-– Im am framework |ai assisted & automated| devloper
+– Im am Full-Stack |ai assisted & automated| devloper
 
 
 About me
 
-I'm very interested and passionate about working as a framework developer to help nurture my creative ideas and coming up with solutions to tackle a problem that I face throughout my journey as devloper.
+I'm very interested and passionate about working as a Full-Stack |ai assisted & automated| devloper to help nurture my creative ideas and coming up with solutions to tackle a problem that I face throughout my journey as devloper.
 
-I currently live in [Zapopan, Jalisco, Mexico]  . I want to clarify that I focus on creativity and simplicity as being ai asisted. I want to stay in the flow while developing.
+I currently live in [Zapopan, Jalisco, Mexico]  . I want to clarify that I focus on creativity and simplicity as being ai assisted & automated. I want to stay in the flow while developing.
 
 ## 🧰 Skills & Tools
-- HTML • CSS • Python  
+- HTML • CSS • Python • Lua
 - Git & GitHub  
--framework |ai assisted & automated| developer
+- Full-Stack |ai assisted & automated| devloper
 
 ## 🚀 Featured Projects
 - [Another Projects](my GitHub repos)
