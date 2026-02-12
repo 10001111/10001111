@@ -7,22 +7,22 @@
 
 About me
 
-I'm very interested and passionate about working as a front-end |ai assisted & automated| devloper to help nurture my creative ideas and coming up with solutions to tackle a problem that I face throughout my journey as devloper.
+I'm very interested and passionate about working as a full stack|ai assisted & automated| devloper to help nurture my creative ideas and coming up with solutions to tackle a problem that I face throughout my journey as devloper.
 
 I currently live in [Zapopan, Jalisco, Mexico]  . I want to clarify that I focus on creativity and simplicity as being ai assisted & automated. I want to stay in the flow while developing.
 
 ## 🧰 Skills & Tools
-- HTML • CSS • Python
+- HTML • CSS • Python • js 
 - Git & GitHub  
-- front-end |ai assisted & automated| devloper
+- full stack ai assisted & automated 
 
 ## 🚀 Featured Projects
 - [Another Projects](my GitHub repos)
 
 ## 🌱 Currently Learning
-- Improving my front-end design skills  
+- Improving my fullstack design skills  
 - Exploring more advanced Python libraries  
-- Building automation tools being ai assisted
+- build more interactive websites
 
 ## 📫 Connect with Me
 - GitHub: [10001111 (Brian Camacho Carrillo))
