@@ -62,6 +62,7 @@ AI is part of my everyday workflow. I use it to plan architecture, write and rev
 |---|---|---|
 | **[Active Thinking](#)** *(in progress)* | <!-- TODO: one line on what it does and who it's for --> | <!-- TODO --> 
 | **[rusttemp](https://github.com/10001111/rusttemp)** | <!-- TODO: one line on what it does --> | <!-- TODO --> |
+| **[pgvault-app](https://github.com/10001111/pgvault-app)** | <!-- TODO: one line on what it does --> | <!-- TODO --> |
 
 ➡️ See everything else in my [repositories](https://github.com/10001111?tab=repositories).
 
