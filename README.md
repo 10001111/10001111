@@ -14,7 +14,10 @@ I currently live in [Zapopan, Jalisco, Mexico]  . I want to clarify that I focus
 ## 🧰 Skills & Tools
 - HTML • CSS • Python • js 
 - Git & GitHub  
-- full stack ai assisted & automated 
+- Full-stack AI-assisted & automated 
+
+✨ Experience
+  AI-assisted coding since 2024
 
 ## 🚀 Featured Projects
 - [Another Projects](my GitHub repos)
