@@ -60,10 +60,7 @@ AI is part of my everyday workflow. I use it to plan architecture, write and rev
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Active Thinking](#)** *(in progress)* | <!-- TODO: one line on what it does and who it's for --> | <!-- TODO --> |
-| **[Electron Browser](#)** | Desktop web browser with built-in ad-blocking (live block stats, custom domain lists) and a searchable bookmark manager | Electron · Node.js · JavaScript |
-| **[Stock Scanner MVP](#)** | Scans and filters stocks to surface trading ideas | Next.js · React |
-| **[Finance Tutor](#)** | Teaches finance concepts through Socratic, question-led lessons | React |
+| **[Active Thinking](#)** *(in progress)* | <!-- TODO: one line on what it does and who it's for --> | <!-- TODO --> 
 | **[rusttemp](https://github.com/10001111/rusttemp)** | <!-- TODO: one line on what it does --> | <!-- TODO --> |
 
 ➡️ See everything else in my [repositories](https://github.com/10001111?tab=repositories).
