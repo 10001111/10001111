@@ -21,6 +21,7 @@ I currently live in [Zapopan, Jalisco, Mexico]  . I want to clarify that I focus
 
 ## 🚀 Featured Projects
 - [Another Projects](my GitHub repos)
+- https://github.com/10001111/rusttemp
 
 ## 🌱 Currently Learning
 - Improving my fullstack design skills  
